@@ -10,4 +10,5 @@ The Egyptian League wanted to stop using paper any more and wanted to create a d
 - Transfer a player from a team to another
 - Change a player's salary
 - Change team shirt color
+
 Make sure you design your database precisely to acheive the desired features. Implementing Authentication is optional but recommended.
